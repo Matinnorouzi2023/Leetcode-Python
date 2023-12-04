@@ -12,3 +12,5 @@ def freq_words():
     print(d)
 
 freq_words()
+
+"i love apple and my mother love apple too."
